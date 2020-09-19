@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 - [:tent: 학원 #41일차: 람다(Lambda)](https://hayeon17kim.github.io/bitcamp/200916-41)
 - [:tent: 학원 #40일차: 파일 입출력](https://hayeon17kim.github.io/bitcamp/200915-40)
 - [:tent: 학원 #39일차: 예외처리](https://hayeon17kim.github.io/bitcamp/200914-39)
-- [💻 HTTP #5: HTTP의 진화](https://hayeon17kim.github.io/network/network05)
-- [:tent: 학원 #38일차: 익명 클래스, 커맨드 디자인 패턴, 상수 다루기](https://hayeon17kim.github.io/bitcamp/200911-38)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
