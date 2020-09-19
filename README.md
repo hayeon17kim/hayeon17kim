@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🎯 2020 Goals : acquire ability to make complete website on my own 👩‍💻
 - 💁‍♀️ I can speak 한국어  / English  / Español
 
-![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt)
+![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt&hide=contribs,prs)
 
 ### Get in Touch
 [<img align="left" alt="hayeon17kim.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
@@ -47,9 +47,6 @@ Here are some ideas to get you started:
 - [:tent: 학원 #40일차: 파일 입출력](https://hayeon17kim.github.io/bitcamp/200915-40)
 - [:tent: 학원 #39일차: 예외처리](https://hayeon17kim.github.io/bitcamp/200914-39)
 <!-- BLOG-POST-LIST:END -->
-
-<br />
-<br />
 
 [website]: https://hayeon17kim.com
 [twitter]: https://twitter.com/MONI56219559
