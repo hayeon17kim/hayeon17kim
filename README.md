@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 ---
 
+![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=synthwave)
+
 [website]: https://hayeon17kim.com
 [twitter]: https://twitter.com/MONI56219559
 [instagram]: https://www.instagram.com/monicayeoni/
