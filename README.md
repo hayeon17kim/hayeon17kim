@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 - 🎯 2020 Goals : acquire ability to make complete website on my own 👩‍💻
 - 💁‍♀️ I can speak 한국어  / English  / Español
 
-<br />
+![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt)
 
-### Get in touch
-
+### Get in Touch
 [<img align="left" alt="hayeon17kim.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="https://twitter.com/MONI56219559" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.instagram.com/monicayeoni/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ### Languages and Tools
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<br />
 <br />
 
 ### 📕 Latest Blog Posts
@@ -50,8 +51,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <br />
-
-![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt)
+<br />
 
 [website]: https://hayeon17kim.com
 [twitter]: https://twitter.com/MONI56219559
