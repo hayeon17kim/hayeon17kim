@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt&hide=contribs,prs)
 
-<!--
+
 ### Get in Touch
 [<img align="left" alt="hayeon17kim.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="https://twitter.com/MONI56219559" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
+<!--
 ### Languages and Tools
 <img align="left" alt="JAVA" width="26px" src="https://user-images.githubusercontent.com/50407047/93660994-4b5ee900-fa8f-11ea-8f27-812b87a385df.JPG" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
