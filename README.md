@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on something cool 😎
 - 🌱 I'm currently learning Java ☕
-- 👯 I'm looking to collaborate with others 🤝
-- 🎯 2020 Goals : acquire ability to make complete website from zero on my own 👩‍💻
+- 🎯 2020 Goals : acquire ability to make complete website on my own 👩‍💻
 - 💁‍♀️ I can speak 한국어  / English  / Español
 
 <br />
