@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some ideas to get you started:
-
 - 🌱 I'm currently learning Java ☕
 - 🎯 2020 Goals : acquire ability to make complete website on my own 👩‍💻
 - 💁‍♀️ I can speak 한국어  / English  / Español
