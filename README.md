@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 - [:tent: 학원 #39일차: 예외처리](https://hayeon17kim.github.io/bitcamp/200914-39)
 <!-- BLOG-POST-LIST:END -->
 
+
 [website]: https://hayeon17kim.com
 [twitter]: https://twitter.com/MONI56219559
 [instagram]: https://www.instagram.com/monicayeoni/
