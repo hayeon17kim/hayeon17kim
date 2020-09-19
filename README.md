@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 ![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt&hide=contribs,prs)
 
+<!--
 ### Get in Touch
 [<img align="left" alt="hayeon17kim.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="https://twitter.com/MONI56219559" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+-->
 
 ### 📕 Latest Blog Posts
 
