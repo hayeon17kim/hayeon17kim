@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 
-[website]: https://hayeon17kim.com
+[website]: https://hayeon17kim.github.io
 [twitter]: https://twitter.com/MONI56219559
 [instagram]: https://www.instagram.com/monicayeoni/
