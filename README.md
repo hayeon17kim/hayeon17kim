@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="https://twitter.com/MONI56219559" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.instagram.com/monicayeoni/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <br />
 
 ### Languages and Tools
@@ -39,9 +38,6 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br />
-<br />
-
----
 
 ### 📕 Latest Blog Posts
 
@@ -52,9 +48,10 @@ Here are some ideas to get you started:
 - [💻 HTTP #5: HTTP의 진화](https://hayeon17kim.github.io/network/network05)
 - [:tent: 학원 #38일차: 익명 클래스, 커맨드 디자인 패턴, 상수 다루기](https://hayeon17kim.github.io/bitcamp/200911-38)
 <!-- BLOG-POST-LIST:END -->
----
 
-![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=synthwave)
+<br />
+
+![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt)
 
 [website]: https://hayeon17kim.com
 [twitter]: https://twitter.com/MONI56219559
