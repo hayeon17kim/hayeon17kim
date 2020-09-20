@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [:tent: 학원 #43일차: 파일 입출력 API](https://hayeon17kim.github.io/bitcamp/200918-43)
 - [:tent: 학원 #41일차: 람다(Lambda)](https://hayeon17kim.github.io/bitcamp/200916-41)
 - [:tent: 학원 #40일차: 파일 입출력](https://hayeon17kim.github.io/bitcamp/200915-40)
-- [:tent: 학원 #39일차: 예외처리](https://hayeon17kim.github.io/bitcamp/200914-39)
 <!-- BLOG-POST-LIST:END -->
 
 
