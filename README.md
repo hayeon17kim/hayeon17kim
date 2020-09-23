@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [💻 HTTP #6: HTTP 메시지](https://hayeon17kim.github.io/network/network06)
+- [:tent: 학원 #46일차: 미니 프로젝트와 파일 입출력 API: 바이트 스트림, 제네릭 메서드](https://hayeon17kim.github.io/bitcamp/200923-46)
 - [:tent: 학원 #43일차: 파일 입출력 API](https://hayeon17kim.github.io/bitcamp/200918-43)
-- [:tent: 학원 #41일차: 람다(Lambda)](https://hayeon17kim.github.io/bitcamp/200916-41)
-- [:tent: 학원 #40일차: 파일 입출력](https://hayeon17kim.github.io/bitcamp/200915-40)
 <!-- BLOG-POST-LIST:END -->
 
 
