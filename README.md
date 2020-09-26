@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do it! 자료구조와 함께 배우는 알고리즘 #1장 기본 알고리즘](https://hayeon17kim.github.io/do-it/doit01)
 - [코어 자바스크립트 #2.7: 형변환](https://hayeon17kim.github.io/javascript/corejs0207)
-- [코어 자바스크립트 #2.6: alert, prompt, confirm을 이용한 상호작용](https://hayeon17kim.github.io/javascript/corejs0206)
-- [💻 HTTP #6: HTTP 메시지](https://hayeon17kim.github.io/network/network06)
+- [💻 HTTP #7: HTTP 압축](https://hayeon17kim.github.io/network/network07)
 <!-- BLOG-POST-LIST:END -->
 
 
