@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [핵심 자료구조와 알고리즘 #1장: 인터페이스](https://hayeon17kim.github.io/data-structure/data-structure01)
 - [이산수학 #1,2강: 명제, 논리적 동치](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics01)
 - [Do it! 자료구조와 함께 배우는 알고리즘 #1장 기본 알고리즘](https://hayeon17kim.github.io/do-it/doit01)
-- [코어 자바스크립트 #2.7: 형변환](https://hayeon17kim.github.io/javascript/corejs0207)
 <!-- BLOG-POST-LIST:END -->
 
 
