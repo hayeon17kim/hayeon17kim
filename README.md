@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [핵심 자료구조와 알고리즘 #1장: 인터페이스](https://hayeon17kim.github.io/data-structure/data-structure01)
-- [이산수학 #3강: 변수를 포함한 명제와 한정자, 논리와 추론](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics03)
-- [이산수학 #4강: 증명](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics04)
+- [💻 HTTP #8: HTTP 조건부 요청](https://hayeon17kim.github.io/network/network08)
+- [:book: 자바의 정석 #8: 예외처리](https://hayeon17kim.github.io/textbook/textbook-0800)
+- [:book: 자바의 정석 #7.8: 내부클래스](https://hayeon17kim.github.io/textbook/textbook-0708)
 <!-- BLOG-POST-LIST:END -->
 
 
