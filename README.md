@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [:book: 자바의 정석 #9.1: java.lang 패키지](https://hayeon17kim.github.io/textbook/textbook-0901)
 - [💻 HTTP #8: HTTP 조건부 요청](https://hayeon17kim.github.io/network/network08)
 - [:book: 자바의 정석 #8: 예외처리](https://hayeon17kim.github.io/textbook/textbook-0800)
-- [:book: 자바의 정석 #7.8: 내부클래스](https://hayeon17kim.github.io/textbook/textbook-0708)
 <!-- BLOG-POST-LIST:END -->
 
 
