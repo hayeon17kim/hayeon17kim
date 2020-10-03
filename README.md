@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [이산수학 #5강: 집합](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics05)
+- [이산수학 #6강: 집합의 연산](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics06)
 - [:book: 자바의 정석 #9.1: java.lang 패키지](https://hayeon17kim.github.io/textbook/textbook-0901)
-- [코어 자바스크립트 #2.12: null 병합 연산자 ‘?’](https://hayeon17kim.github.io/javascript/corejs0212)
-- [💻 HTTP #8: HTTP 조건부 요청](https://hayeon17kim.github.io/network/network08)
 <!-- BLOG-POST-LIST:END -->
 
 
