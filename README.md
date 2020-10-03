@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do it! 자료구조와 함께 배우는 알고리즘 #2장 기본 자료구조](https://hayeon17kim.github.io/do-it/doit02)
 - [이산수학 #5강: 집합](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics05)
 - [이산수학 #6강: 집합의 연산](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics06)
-- [:book: 자바의 정석 #9.1: java.lang 패키지](https://hayeon17kim.github.io/textbook/textbook-0901)
 <!-- BLOG-POST-LIST:END -->
 
 
