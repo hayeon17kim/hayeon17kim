@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [:tent: 학원 #52일차: 계산기 Network App 만들기, 스레드](https://hayeon17kim.github.io/bitcamp/201006-52)
 - [:tent: 학원 #51일차: HTTP, URL, Base64](https://hayeon17kim.github.io/bitcamp/201005-51)
 - [핵심 자료구조와 알고리즘 #2장: 알고리즘 분석](https://hayeon17kim.github.io/data-structure/data-structure02)
-- [이산수학 #7강: 집합의 대수법칙](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics07)
 <!-- BLOG-POST-LIST:END -->
 
 
