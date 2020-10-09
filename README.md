@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [러닝 자바스크립트 #1장: 첫 번째 애플리케이션](https://hayeon17kim.github.io/learning-js/learning-js-01)
+- [모두의 네트워크 #1장: 네트워크 첫걸음](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-01)
 - [:tent: 학원 #52일차: 계산기 Network App 만들기, 스레드](https://hayeon17kim.github.io/bitcamp/201006-52)
-- [:tent: 학원 #51일차: HTTP, URL, Base64](https://hayeon17kim.github.io/bitcamp/201005-51)
 <!-- BLOG-POST-LIST:END -->
 
 
