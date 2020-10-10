@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do it! 자료구조와 함께 배우는 알고리즘 #3장: 검색 (검색 알고리즘, 선형 검색, 이진 검색)](https://hayeon17kim.github.io/do-it/doit03)
+- [이산수학 #9,10강: 보수의 표현 및 연산](https://hayeon17kim.github.io/discrete-mathematics/discrete-mathematics0910)
 - [💻 HTTP #9: HTTP 컨텐츠 협상](https://hayeon17kim.github.io/network/network09)
-- [러닝 자바스크립트 #1장: 첫 번째 애플리케이션](https://hayeon17kim.github.io/learning-js/learning-js-01)
-- [모두의 네트워크 #1장: 네트워크 첫걸음](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-01)
 <!-- BLOG-POST-LIST:END -->
 
 
