@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [핵심 자료구조와 알고리즘 #3장: ArrayList 클래스](https://hayeon17kim.github.io/data-structure/data-structure03)
 - [러닝 자바스크립트 #2장: 자바스크립트 개발 도구](https://hayeon17kim.github.io/learning-js/learning-js-02)
 - [:book: 리팩토링 #4장: 테스트 작성](https://hayeon17kim.github.io/refactoring/refactoring04)
-- [Do it! 자료구조와 함께 배우는 알고리즘 #3장: 검색 (검색 알고리즘, 선형 검색, 이진 검색)](https://hayeon17kim.github.io/do-it/doit03)
 <!-- BLOG-POST-LIST:END -->
 
 
