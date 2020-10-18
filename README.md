@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML5 CSS3 웹 표준의 정석 #1장: HTML 기본 다지기](https://hayeon17kim.github.io/html5-css3/html5-css3-01)
 - [모두의 네트워크 #2장: 네트워크 기본 규칙](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-02)
 - [:tent: 학원 #54일차: Observer 패턴](https://hayeon17kim.github.io/bitcamp/201013-56)
-- [:tent: 학원 #54일차: Observer 패턴](https://hayeon17kim.github.io/bitcamp/201012-55)
 <!-- BLOG-POST-LIST:END -->
 
 
