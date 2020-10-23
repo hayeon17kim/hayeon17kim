@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently learning Java ☕
-- 🎯 2020 Goals : acquire ability to make complete website on my own 👩‍💻
+- 🎯 2020 Goals : acquire ability to make complete web application on my own 👩‍💻
 - 💁‍♀️ 한국어  / English  / Español
 
 ![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt&hide=contribs,prs)
