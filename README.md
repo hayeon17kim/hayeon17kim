@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Do it! 자료구조와 함께 배우는 알고리즘 #5장: 재귀 알고리즘](https://hayeon17kim.github.io/do-it/doit05)
 - [HTML5 CSS3 웹 표준의 정석 #2장: 텍스트 관련 태그](https://hayeon17kim.github.io/html5-css3/html5-css3-02)
+- [모두의 네트워크 #3장: 물리계층](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-03)
 - [:tent: 학원 #61일차: 스레드풀의 구현과 사용, DBMS](https://hayeon17kim.github.io/bitcamp/201020-61)
 - [:tent: 학원 #60일차: 요구사항 분석(Use Case), Executors 태스크 프레임워크 - 스레드풀](https://hayeon17kim.github.io/bitcamp/201019-60)
-- [Do it! 자료구조와 함께 배우는 알고리즘 #4장: 스택과 큐(+ 링 버퍼)](https://hayeon17kim.github.io/do-it/doit04)
 <!-- BLOG-POST-LIST:END -->
 
 
