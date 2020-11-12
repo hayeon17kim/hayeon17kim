@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [:tent: 학원 #77일차: MyBatis 기본 문법 및 프로젝트에 적용](https://hayeon17kim.github.io/bitcamp/201111-77)
 - [:tent: 학원 #76일차: 프로젝트에 MyBatis 적용: MyBatis가 join 결과를 다루는 방법, 프로그램에서 사용하는 객체를 listener에서 준비시키기, sqlSessionFactory 공유,](https://hayeon17kim.github.io/bitcamp/201110-76)
 - [:tent: 학원 #75일차: Chain of Responsibility 패턴, Persistance 프레임워크 MyBatis](https://hayeon17kim.github.io/bitcamp/201109-75)
 - [모두의 네트워크 #4장: 데이터 링크 계층](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-04)
 - [HTML5 CSS3 웹 표준의 정석 #3장: 이미지와 하이퍼링크](https://hayeon17kim.github.io/html5-css3/html5-css3-03)
-- [러닝 자바스크립트 #3장: 자바스크립트 개발 도구](https://hayeon17kim.github.io/learning-js/learning-js-03)
 <!-- BLOG-POST-LIST:END -->
 
 
