@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 - [:tent: 학원 #80일차: Proxy 패턴: Command의 트랜잭션 처리](https://hayeon17kim.github.io/bitcamp/201116-80)
+- [코어 자바스크립트 #자료구조와 자료형: 위크맵과 위크셋](https://hayeon17kim.github.io/javascript/corejs-weakmap-weakset)
 - [HTML5 CSS3 웹 표준의 정석 #5장: CSS 기초](https://hayeon17kim.github.io/html5-css3/html5-css3-05)
 - [HTML5 CSS3 웹 표준의 정석 #4장: 폼 관련 태그들](https://hayeon17kim.github.io/html5-css3/html5-css3-04)
 - [모두의 네트워크 #6장: 전송 계층](https://hayeon17kim.github.io/network-for-everyone/network-for-everyone-06)
-- [:tent: 학원 #77일차: MyBatis 기본 문법 및 프로젝트에 적용](https://hayeon17kim.github.io/bitcamp/201111-77)
 <!-- BLOG-POST-LIST:END -->
 
 
