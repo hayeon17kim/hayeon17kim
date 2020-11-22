@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML5 CSS3 웹 표준의 정석 #6장: 텍스트 관련 스타일](https://hayeon17kim.github.io/html5-css3/html5-css3-06)
 - [:tent: 학원 #81일차: 비즈니스 로직 분리: 서비스 객체 도입](https://hayeon17kim.github.io/bitcamp/201117-81)
 - [코어 자바스크립트 #5 자료구조와 자료형: Object.keys, values, entries](https://hayeon17kim.github.io/javascript/corejs-object-keys-values-entries)
 - [:tent: 학원 #80일차: Proxy 패턴: Command의 트랜잭션 처리](https://hayeon17kim.github.io/bitcamp/201116-80)
 - [코어 자바스크립트 #5 자료구조와 자료형: 위크맵과 위크셋](https://hayeon17kim.github.io/javascript/corejs-weakmap-weakset)
-- [HTML5 CSS3 웹 표준의 정석 #5장: CSS 기초](https://hayeon17kim.github.io/html5-css3/html5-css3-05)
 <!-- BLOG-POST-LIST:END -->
 
 
