@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML5 CSS3 웹 표준의 정석 #8장: CSS 박스모델](https://hayeon17kim.github.io/html5-css3/html5-css3-08)
+- [HTML5 CSS3 웹 표준의 정석 #7장: 색상과 배경을 위한 스타일](https://hayeon17kim.github.io/html5-css3/html5-css3-07)
+- [:tent: 학원 #86일차:서블릿 프로그래밍, 프로젝트를 WAS 아키텍처로 전환](https://hayeon17kim.github.io/bitcamp/201124-86)
+- [:tent: 학원 #85일차:서블릿 프로그래밍, WAS, JavaEE와 Servlet 컨테이너, Servlet 인터페이스의 Life-cycle 메서드](https://hayeon17kim.github.io/bitcamp/201123-85)
 - [HTML5 CSS3 웹 표준의 정석 #6장: 텍스트 관련 스타일](https://hayeon17kim.github.io/html5-css3/html5-css3-06)
-- [:tent: 학원 #81일차: 비즈니스 로직 분리: 서비스 객체 도입](https://hayeon17kim.github.io/bitcamp/201117-81)
-- [코어 자바스크립트 #5 자료구조와 자료형: Object.keys, values, entries](https://hayeon17kim.github.io/javascript/corejs-object-keys-values-entries)
-- [:tent: 학원 #80일차: Proxy 패턴: Command의 트랜잭션 처리](https://hayeon17kim.github.io/bitcamp/201116-80)
-- [코어 자바스크립트 #5 자료구조와 자료형: 위크맵과 위크셋](https://hayeon17kim.github.io/javascript/corejs-weakmap-weakset)
 <!-- BLOG-POST-LIST:END -->
 
 
