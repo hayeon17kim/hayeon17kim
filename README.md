@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [:tent: 학원 #93일차: Http 쿠키(Cookie), 세션(Session), MVC 아키텍처](https://hayeon17kim.github.io/bitcamp/201203-93)
-- [HTML5 CSS3 웹 표준의 정석 #8장: CSS 박스모델](https://hayeon17kim.github.io/html5-css3/html5-css3-08)
-- [HTML5 CSS3 웹 표준의 정석 #7장: 색상과 배경을 위한 스타일](https://hayeon17kim.github.io/html5-css3/html5-css3-07)
-- [:tent: 학원 #87일차: HTML 태그 사용법](https://hayeon17kim.github.io/bitcamp/201125-87)
-- [:tent: 학원 #86일차:서블릿 프로그래밍, 프로젝트를 WAS 아키텍처로 전환](https://hayeon17kim.github.io/bitcamp/201124-86)
+- [모던 자바스크립트 #2.7. 형 변환](https://hayeon17kim.github.io/javascript/modern-js-0207)
+- [모던 자바스크립트 #2.8. 기본 연산자와 수학](https://hayeon17kim.github.io/javascript/modern-js-0208)
+- [모던 자바스크립트 #2.5. 자료형](https://hayeon17kim.github.io/javascript/modern-js-0205)
+- [모던 자바스크립트 #2.6. alert, prompt, confirm을 이용한 상호작용](https://hayeon17kim.github.io/javascript/modern-js-0206)
+- [모던 자바스크립트 #2.3. 엄격 모드](https://hayeon17kim.github.io/javascript/modern-js-0203)
 <!-- BLOG-POST-LIST:END -->
 
 
