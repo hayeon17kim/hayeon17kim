@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [이것이 안드로이드다 with 코틀린 #1 코틀린 안드로이드 이해하기](https://hayeon17kim.github.io/android/android-01)
 - [스프링 입문 #5 회원 관리 예제 - 웹 MVC 개발](https://hayeon17kim.github.io/spring/spring-basic-05)
 - [스프링 입문 #4 스프링 빈과 의존 관계](https://hayeon17kim.github.io/spring/spring-basic-04)
 - [스프링 입문 #3 회원관리 예제: 백엔드 개발](https://hayeon17kim.github.io/spring/spring-basic-03)
 - [스프링 입문 #2 스프링 웹 개발 기초](https://hayeon17kim.github.io/spring/spring-basic-02)
-- [스프링 입문 #1 프로젝트 환경설정](https://hayeon17kim.github.io/spring/spring-basic-01)
 <!-- BLOG-POST-LIST:END -->
 
 
