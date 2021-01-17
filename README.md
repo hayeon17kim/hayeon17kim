@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [스프링 입문 #5 회원 관리 예제 - 웹 MVC 개발](https://hayeon17kim.github.io/spring/spring-basic-05)
+- [스프링 입문 #4 스프링 빈과 의존 관계](https://hayeon17kim.github.io/spring/spring-basic-04)
 - [스프링 입문 #3 회원관리 예제: 백엔드 개발](https://hayeon17kim.github.io/spring/spring-basic-03)
 - [스프링 입문 #2 스프링 웹 개발 기초](https://hayeon17kim.github.io/spring/spring-basic-02)
 - [스프링 입문 #1 프로젝트 환경설정](https://hayeon17kim.github.io/spring/spring-basic-01)
-- [모던 자바스크립트 #2.7. 형 변환](https://hayeon17kim.github.io/javascript/modern-js-0207)
-- [모던 자바스크립트 #2.8. 기본 연산자와 수학](https://hayeon17kim.github.io/javascript/modern-js-0208)
 <!-- BLOG-POST-LIST:END -->
 
 
