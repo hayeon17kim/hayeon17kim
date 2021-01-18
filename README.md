@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [모던 자바스크립트 #2.11. 논리 연산자](https://hayeon17kim.github.io/javascript/modern-js-0211)
+- [모던 자바스크립트 #2.12. null 병합 연산자 ‘??’](https://hayeon17kim.github.io/javascript/modern-js-0212)
 - [이것이 안드로이드다 with 코틀린 #1 코틀린 안드로이드 이해하기](https://hayeon17kim.github.io/android/android-01)
 - [스프링 입문 #5 회원 관리 예제 - 웹 MVC 개발](https://hayeon17kim.github.io/spring/spring-basic-05)
 - [스프링 입문 #4 스프링 빈과 의존 관계](https://hayeon17kim.github.io/spring/spring-basic-04)
-- [스프링 입문 #3 회원관리 예제: 백엔드 개발](https://hayeon17kim.github.io/spring/spring-basic-03)
-- [스프링 입문 #2 스프링 웹 개발 기초](https://hayeon17kim.github.io/spring/spring-basic-02)
 <!-- BLOG-POST-LIST:END -->
 
 
