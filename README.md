@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [스프링 입문 #7 AOP(Aspect Oriented Programming)](https://hayeon17kim.github.io/spring/spring-basic-07)
-- [모던 자바스크립트 #2.11. 논리 연산자](https://hayeon17kim.github.io/javascript/modern-js-0211)
-- [모던 자바스크립트 #2.12. null 병합 연산자 ‘??’](https://hayeon17kim.github.io/javascript/modern-js-0212)
-- [스프링 입문 #6 스프링 DB 접근 기술](https://hayeon17kim.github.io/spring/spring-basic-06)
-- [이것이 안드로이드다 with 코틀린 #1 코틀린 안드로이드 이해하기](https://hayeon17kim.github.io/android/android-01)
+- [모던 자바스크립트 #2.17. 화살표 함수 기본](https://hayeon17kim.github.io/javascript/modern-js-0217)
+- [모던 자바스크립트 #2.18. 기본 문법 요약](https://hayeon17kim.github.io/javascript/modern-js-0218)
+- [모던 자바스크립트 #2.15. 함수](https://hayeon17kim.github.io/javascript/modern-js-0215)
+- [모던 자바스크립트 #2.16. 함수 표현식](https://hayeon17kim.github.io/javascript/modern-js-0216)
+- [모던 자바스크립트 #2.13. while과 for 반복문](https://hayeon17kim.github.io/javascript/modern-js-0213)
 <!-- BLOG-POST-LIST:END -->
 
 
