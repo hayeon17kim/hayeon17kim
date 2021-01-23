@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [모던 자바스크립트 #2.17. 화살표 함수 기본](https://hayeon17kim.github.io/javascript/modern-js-0217)
-- [모던 자바스크립트 #2.18. 기본 문법 요약](https://hayeon17kim.github.io/javascript/modern-js-0218)
-- [모던 자바스크립트 #2.15. 함수](https://hayeon17kim.github.io/javascript/modern-js-0215)
-- [모던 자바스크립트 #2.16. 함수 표현식](https://hayeon17kim.github.io/javascript/modern-js-0216)
-- [모던 자바스크립트 #2.13. while과 for 반복문](https://hayeon17kim.github.io/javascript/modern-js-0213)
+- [모던 자바스크립트 #3.5. 테스트 자동화와 Mocha](https://hayeon17kim.github.io/javascript/modern-js-0305)
+- [모던 자바스크립트 #3.6. 폴리필](https://hayeon17kim.github.io/javascript/modern-js-0306)
+- [모던 자바스크립트 #3.3. 주석](https://hayeon17kim.github.io/javascript/modern-js-0303)
+- [모던 자바스크립트 #3.5. 테스트 자동화와 Mocha](https://hayeon17kim.github.io/javascript/modern-js-0304)
+- [모던 자바스크립트 #3.1. Chrome으로 디버깅하기](https://hayeon17kim.github.io/javascript/modern-js-0301)
 <!-- BLOG-POST-LIST:END -->
 
 
