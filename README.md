@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [모던 자바스크립트 #4.3. 가비지 컬렉션](https://hayeon17kim.github.io/javascript/modern-js-0403)
+- [모던 자바스크립트 #4.4. 메서드와 this](https://hayeon17kim.github.io/javascript/modern-js-0404)
 - [모던 자바스크립트 #4.1. 객체](https://hayeon17kim.github.io/javascript/modern-js-0401)
+- [모던 자바스크립트 #4.2. 참조에 의한 객체 복사](https://hayeon17kim.github.io/javascript/modern-js-0402)
 - [모던 자바스크립트 #3.5. 테스트 자동화와 Mocha](https://hayeon17kim.github.io/javascript/modern-js-0305)
-- [모던 자바스크립트 #3.6. 폴리필](https://hayeon17kim.github.io/javascript/modern-js-0306)
-- [스프링 입문 #7 AOP(Aspect Oriented Programming)](https://hayeon17kim.github.io/spring/spring-basic-07)
-- [모던 자바스크립트 #3.3. 주석](https://hayeon17kim.github.io/javascript/modern-js-0303)
 <!-- BLOG-POST-LIST:END -->
 
 
