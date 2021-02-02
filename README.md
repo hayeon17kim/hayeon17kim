@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [이것이 안드로이드다 with 코틀린 #1 코틀린 기본문법: 3. 조건문](https://hayeon17kim.github.io/android-kotlin/android-0303)
+- [이것이 안드로이드다 with 코틀린 #1 코틀린 기본문법: 2. 변수와 상수](https://hayeon17kim.github.io/android-kotlin/android-0302)
+- [이것이 안드로이드다 with 코틀린 #1 코틀린 기본문법: 1. 코딩 준비하기](https://hayeon17kim.github.io/android-kotlin/android-0301)
 - [모던 자바스크립트 #4.3. 가비지 컬렉션](https://hayeon17kim.github.io/javascript/modern-js-0403)
 - [모던 자바스크립트 #4.4. 메서드와 this](https://hayeon17kim.github.io/javascript/modern-js-0404)
-- [모던 자바스크립트 #4.1. 객체](https://hayeon17kim.github.io/javascript/modern-js-0401)
-- [모던 자바스크립트 #4.2. 참조에 의한 객체 복사](https://hayeon17kim.github.io/javascript/modern-js-0402)
-- [모던 자바스크립트 #3.5. 테스트 자동화와 Mocha](https://hayeon17kim.github.io/javascript/modern-js-0305)
 <!-- BLOG-POST-LIST:END -->
 
 
