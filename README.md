@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HIWORK: Field ‘cNo’ doesn’t have a default value](https://hayeon17kim.github.io/hiwork/hiwork-11)
-- [이것이 안드로이드다 with 코틀린 #1 코틀린 기본문법: 7. 클래스와 설계](https://hayeon17kim.github.io/android-kotlin/android-0307)
-- [HIWORK: Column ‘regiDate’ cannot be null](https://hayeon17kim.github.io/hiwork/hiwork-09)
-- [이것이 안드로이드다 with 코틀린 #1 코틀린 기본문법: 6. 함수](https://hayeon17kim.github.io/android-kotlin/android-0306)
-- [HIWORK: could not extract ResultSet 에러](https://hayeon17kim.github.io/hiwork/hiwork-07)
+- [HIWORK: Field 'cNo' doesn't have a default value](/posts/hiwork-11/)
+- [HIWORK: Column 'regiDate' cannot be null](/posts/hiwork-09/)
+- [이것이 안드로이드다 with 코틀린 #1 코틀린 기본문법: 7. 클래스와 설계](/posts/android-0307/)
+- [HIWORK: could not extract ResultSet 에러](/posts/hiwork-07/)
+- [이것이 안드로이드다 with 코틀린 #1 코틀린 기본문법: 6. 함수](/posts/android-0306/)
 <!-- BLOG-POST-LIST:END -->
 
 
