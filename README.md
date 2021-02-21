@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - [정렬(Sort): 가장 큰 수](https://hayeon17kim.github.io//posts/programmers-survival-kit-02/)
 - [그리디(Greedy): 기지국 설치 문제](https://hayeon17kim.github.io//posts/programmers-survival-kit-01/)
 - [HIWORK: Field 'cNo' doesn't have a default value](https://hayeon17kim.github.io//posts/hiwork-11/)
-- [HIWORK: Column 'regiDate' cannot be null](https://hayeon17kim.github.io//posts/hiwork-09/)
+- [모던 자바스크립트 #5.8. 위크맵과 위크셋](https://hayeon17kim.github.io//posts/modern-js-0508/)
 <!-- BLOG-POST-LIST:END -->
 
 
