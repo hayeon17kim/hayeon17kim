@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [정규표현식: 전역 플래그(/g)와 test()](https://hayeon17kim.github.io//posts/regex-test-g/)
 - [해시(Hash): 위장](https://hayeon17kim.github.io//posts/programmers-survival-kit-04/)
 - [정렬(Sort): 가장 큰 수](https://hayeon17kim.github.io//posts/programmers-survival-kit-02/)
 - [그리디(Greedy): 기지국 설치 문제](https://hayeon17kim.github.io//posts/programmers-survival-kit-01/)
-- [HIWORK: Field 'cNo' doesn't have a default value](https://hayeon17kim.github.io//posts/hiwork-11/)
-- [모던 자바스크립트 #5.8. 위크맵과 위크셋](https://hayeon17kim.github.io//posts/modern-js-0508/)
+- [모던 자바스크립트 #5.9. Object.keys, values, entries](https://hayeon17kim.github.io//posts/modern-js-0509/)
 <!-- BLOG-POST-LIST:END -->
 
 
