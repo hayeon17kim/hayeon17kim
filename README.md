@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [정렬: 가장 큰 수](https://hayeon17kim.github.io//posts/programmers-survival-kit-02/)
-- [그리디: 기지국 설치 문제](https://hayeon17kim.github.io//posts/programmers-survival-kit-01/)
+- [해시(Hash): 위장](https://hayeon17kim.github.io//posts/programmers-survival-kit-04/)
+- [정렬(Sort): 가장 큰 수](https://hayeon17kim.github.io//posts/programmers-survival-kit-02/)
+- [그리디(Greedy): 기지국 설치 문제](https://hayeon17kim.github.io//posts/programmers-survival-kit-01/)
 - [HIWORK: Field 'cNo' doesn't have a default value](https://hayeon17kim.github.io//posts/hiwork-11/)
 - [HIWORK: Column 'regiDate' cannot be null](https://hayeon17kim.github.io//posts/hiwork-09/)
-- [이것이 안드로이드다 with 코틀린 #1 코틀린 기본문법: 7. 클래스와 설계](https://hayeon17kim.github.io//posts/android-0307/)
 <!-- BLOG-POST-LIST:END -->
 
 
