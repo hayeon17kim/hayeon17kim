@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [해시(Hash): 위장](https://hayeon17kim.github.io//posts/programmers-survival-kit-05/)
 - [정규표현식: 전역 플래그(/g)와 test()](https://hayeon17kim.github.io//posts/regex-test-g/)
-- [해시(Hash): 위장](https://hayeon17kim.github.io//posts/programmers-survival-kit-04/)
+- [시뮬레이션(Simulation): 숫자게임](https://hayeon17kim.github.io//posts/programmers-survival-kit-04/)
 - [이분탐색(Binary Search): 예산](https://hayeon17kim.github.io//posts/programmers-survival-kit-03/)
 - [정렬(Sort): 가장 큰 수](https://hayeon17kim.github.io//posts/programmers-survival-kit-02/)
 <!-- BLOG-POST-LIST:END -->
