@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [개발자를 위한 소셜 네트워크 서비스: 뱃지 수집 시스템 구현하기](https://hayeon17kim.github.io//posts/devil-badge/)
 - [깊이우선탐색(DFS): 올바른 괄호의 개수](https://hayeon17kim.github.io//posts/programmers-survival-kit-07/)
 - [너비우선탐색(BFS): 게임 맵 최단거리](https://hayeon17kim.github.io//posts/programmers-survival-kit-06/)
 - [해시(Hash): 위장](https://hayeon17kim.github.io//posts/programmers-survival-kit-05/)
 - [정규표현식: 전역 플래그(/g)와 test()](https://hayeon17kim.github.io//posts/regex-test-g/)
-- [시뮬레이션(Simulation): 숫자게임](https://hayeon17kim.github.io//posts/programmers-survival-kit-04/)
 <!-- BLOG-POST-LIST:END -->
 
 
