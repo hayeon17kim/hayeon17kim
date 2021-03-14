@@ -3,8 +3,6 @@
 
 ⚡   Junior Backand Developer
 
-[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hayeon17kim@gmail.com)
-[![blog](https://img.shields.io/badge/RSS-FFA500?style=flat-square&logo=rss&logoColor=white)](https://hayeon17kim.github.io)
 
 ### Tech Stack
 
@@ -34,5 +32,5 @@
 - [너비우선탐색(BFS): 게임 맵 최단거리](https://hayeon17kim.github.io//posts/programmers-survival-kit-06/)
 <!-- BLOG-POST-LIST:END -->
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hayeon17kim)
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hayeon17kim@gmail.com)
+[![blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://hayeon17kim.github.io)
