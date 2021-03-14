@@ -3,21 +3,17 @@
 
 ⚡   Junior Backand Developer
 
----
 
 ### Tech Stack
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
   [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
   [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
 
----
 
 ### Get in Touch
 [<img align="left" alt="hayeon17kim.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
