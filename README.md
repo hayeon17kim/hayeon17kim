@@ -33,7 +33,7 @@
 <br />
 -->
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [React 자습서 따라하기: #1 React 시작하기](https://hayeon17kim.github.io//posts/react-document-01/)
