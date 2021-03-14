@@ -24,15 +24,6 @@
 
 ---
 
-<h3 align="center">
-  Do you understand <b>안녕</b>? It's ok if you don't. 
-</h3>
-<h4 align="center">
-  I understand English & 中文, Get in touch.
-</h4>
-
-</div>
-
 ### Get in Touch
 [<img align="left" alt="hayeon17kim.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="https://twitter.com/MONI56219559" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
