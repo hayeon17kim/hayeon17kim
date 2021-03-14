@@ -1,26 +1,19 @@
 ### Hi there, I'm Hayeon 👋
 
-<!--
-**hayeon17kim/hayeon17kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🌱 I'm currently learning Java ☕
 - 🎯 2020 Goal : acquire ability to make complete web application on my own 👩‍💻
 - 💁‍♀️ 한국어  / English  / Español
 
 ![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt&hide=contribs,prs)
 
+## ⚡ Technologies
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 ### Get in Touch
 [<img align="left" alt="hayeon17kim.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
@@ -54,3 +47,5 @@ Here are some ideas to get you started:
 [website]: https://hayeon17kim.github.io
 [twitter]: https://twitter.com/MONI56219559
 [instagram]: https://www.instagram.com/monicayeoni/
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hayeon17kim)
