@@ -12,7 +12,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1) 
-[![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/9m1i9n1)](https://github.com/9m1i9n1)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 
 ### Get in Touch
@@ -20,18 +21,7 @@
 [<img align="left" alt="https://twitter.com/MONI56219559" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.instagram.com/monicayeoni/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
-<!--
-### Languages and Tools
-<img align="left" alt="JAVA" width="26px" src="https://user-images.githubusercontent.com/50407047/93660994-4b5ee900-fa8f-11ea-8f27-812b87a385df.JPG" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<br />
-<br />
--->
+![Hayeon's github stats](https://github-readme-stats.vercel.app/api?username=hayeon17kim&show_icons=true&theme=cobalt&hide=contribs,prs)
 
 ### Latest Blog Posts
 
