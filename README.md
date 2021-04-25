@@ -25,11 +25,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [주니어 성장일기: 2021.04.25](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-25/)
 - [React 자습서 따라하기: #1 React 시작하기](https://hayeon17kim.github.io//posts/react-document-01/)
 - [Fastcampus 01](https://hayeon17kim.github.io//posts/fastcampus-01/)
 - [개발자를 위한 소셜 네트워크 서비스: 뱃지 수집 시스템 구현하기](https://hayeon17kim.github.io//posts/devil-badge/)
 - [깊이우선탐색(DFS): 올바른 괄호의 개수](https://hayeon17kim.github.io//posts/programmers-survival-kit-07/)
-- [너비우선탐색(BFS): 게임 맵 최단거리](https://hayeon17kim.github.io//posts/programmers-survival-kit-06/)
 <!-- BLOG-POST-LIST:END -->
 
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hayeon17kim@gmail.com)
