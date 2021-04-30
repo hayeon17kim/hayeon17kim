@@ -25,7 +25,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [주니어 성장일기: 2021.04.26](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-27/)
+- [주니어 성장일기: 2021.04.27](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-27/)
 - [주니어 성장일기: 2021.04.26](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-26/)
 - [BFS, DFS](https://hayeon17kim.github.io//posts/fastcampus-algorithms-01/)
 - [주니어 성장일기: 2021.04.25](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-25/)
