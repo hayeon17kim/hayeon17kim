@@ -23,11 +23,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [System Design: Capacity Estimate](https://hayeon17kim.github.io//posts/system-deisign-capacity-estimation/)
 - [주니어 성장일기: 2021.04.27](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-27/)
 - [주니어 성장일기: 2021.04.26](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-26/)
 - [BFS, DFS](https://hayeon17kim.github.io//posts/fastcampus-algorithms-01/)
 - [주니어 성장일기: 2021.04.25](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-25/)
-- [React 자습서 따라하기: #1 React 시작하기](https://hayeon17kim.github.io//posts/react-document-01/)
 <!-- BLOG-POST-LIST:END -->
 
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hayeon17kim@gmail.com)
