@@ -23,7 +23,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design: Capacity Estimate](https://hayeon17kim.github.io//posts/system-deisign-capacity-estimation/)
+- [시스템 디자인 개념정리: Latency, Throughput, CDN, Availability](https://hayeon17kim.github.io//posts/system-deisign-capacity-estimation/)
 - [주니어 성장일기: 2021.04.27](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-27/)
 - [주니어 성장일기: 2021.04.26](https://hayeon17kim.github.io//posts/today-i-learned-2021-04-26/)
 - [BFS, DFS](https://hayeon17kim.github.io//posts/fastcampus-algorithms-01/)
