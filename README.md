@@ -1,8 +1,8 @@
 
 ### About Me
 
-⚡   Software Engineer
-
+- 🌟 Software Engineer 
+- 🔥 Currently working on [STUVEL](https://github.com/wooju-memdori), "Study Togther", video chat service 🚀
 
 ### Tech Stack
 
