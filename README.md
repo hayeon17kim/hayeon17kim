@@ -3,7 +3,7 @@
 
 - 🌟 Software Engineer 
 - 🥕 Intern at [karrot](https://www.daangn.com/)
-- 🔥 Currently working on [STUVEL](https://github.com/wooju-memdori), your online study room 🚀
+- 🔥 Currently working on [STUVEL](https://github.com/wooju-memdori) as a side project, your online study room 🚀
 
 ### Tech Stack
 
