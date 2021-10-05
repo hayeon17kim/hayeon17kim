@@ -2,7 +2,7 @@
 ### About Me
 
 - 🌟 Software Engineer 
-- 🥕 Internship at [daangn](https://www.daangn.com/)
+- 🥕 Intern at [daangn](https://www.daangn.com/)
 - 🔥 Currently working on [STUVEL](https://github.com/wooju-memdori), your online study room 🚀
 
 ### Tech Stack
