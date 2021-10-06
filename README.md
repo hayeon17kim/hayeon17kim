@@ -4,7 +4,7 @@
 - 🌟 Software Engineer 
 - 🥕 Intern at [Karrot](https://www.daangn.com/)
 - 🔥 Currently working on [STUVEL](https://github.com/wooju-memdori) as a side project, your online study room 🚀
-- 🦁 Studied at Kyung Hee Univ.
+- 🦁 Studied at [Kyung Hee Univ](https://www.khu.ac.kr/kor/main/index.do).
 
 ### Tech Stack
 
