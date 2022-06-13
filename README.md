@@ -1,7 +1,7 @@
 
 ### About Me
 
-- 🌟 Software Engineer at [Daangn](https://www.daangn.com/)🥕
+- 🌟 Software Engineer at [Karrot](https://www.daangn.com/)🥕
 
 ### Tech Stack
 
